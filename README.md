@@ -1,6 +1,6 @@
 # GeneralTrack
 
-> [**Towards Generalizable Multi-Object Tracking**](https://arxiv.org/abs/2110.06864)
+> [**Towards Generalizable Multi-Object Tracking**]()
 > 
 > Zheng Qin, Le Wang, Sanping Zhou, Panpan Fu, Gang Hua, Wei Tang
 > 
