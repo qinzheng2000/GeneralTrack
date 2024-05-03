@@ -61,7 +61,7 @@ cd <GeneralTrack_HOME>
 python3 tools/track.py
 python3 tools/txt2json_trackeval.py
 
-# Unzip'TrackEval/data.zip'. Put the json file into 'TrackEval/data/trackers/bdd100k/bdd100k_val/xxtrack/data'
+# Unzip 'data.zip'(https://drive.google.com/file/d/1ZAemZSiRtJNIL68g2mYViBDfVMt4igL1/view?usp=drive_link). Put the json file into 'TrackEval/data/trackers/bdd100k/bdd100k_val/xxtrack/data'
 python3 TrackEval/scripts/run_bdd.py --USE_PARALLEL True --NUM_PARALLEL_CORES 64
 ```
 
